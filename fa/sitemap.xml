@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./fa/posts/markdown-syntax/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./posts/markdown-syntax/"
+                href="https://vercel-ochre-six.vercel.app/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/posts/markdown-syntax/"
+                href="https://vercel-ochre-six.vercel.app/fr/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="./fa/posts/markdown-syntax/"
+                href="https://vercel-ochre-six.vercel.app/fa/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>./fa/fatags/css/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/fatags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/facategories/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/facategories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/faseries/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/faseries/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/fatags/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/fatags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/fatags/html/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/fatags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/fatags/markdown/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/fatags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./"
+                href="https://vercel-ochre-six.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/"
+                href="https://vercel-ochre-six.vercel.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="./fa/"
+                href="https://vercel-ochre-six.vercel.app/fa/"
                 />
   </url><url>
-    <loc>./fa/posts/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./posts/"
+                href="https://vercel-ochre-six.vercel.app/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/posts/"
+                href="https://vercel-ochre-six.vercel.app/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="./fa/posts/"
+                href="https://vercel-ochre-six.vercel.app/fa/posts/"
                 />
   </url><url>
-    <loc>./fa/facategories/syntax/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/facategories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/fatags/themes/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/fatags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/facategories/themes/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/facategories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fa/faseries/themes-guide/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fa/faseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>

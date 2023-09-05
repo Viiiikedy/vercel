@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./fr/posts/markdown-syntax/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./posts/markdown-syntax/"
+                href="https://vercel-ochre-six.vercel.app/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="./fa/posts/markdown-syntax/"
+                href="https://vercel-ochre-six.vercel.app/fa/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/posts/markdown-syntax/"
+                href="https://vercel-ochre-six.vercel.app/fr/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>./fr/frtags/css/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frtags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frcategories/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frcategories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frseries/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frseries/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frtags/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frtags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frtags/html/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frtags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frtags/markdown/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frtags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./"
+                href="https://vercel-ochre-six.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="./fa/"
+                href="https://vercel-ochre-six.vercel.app/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/"
+                href="https://vercel-ochre-six.vercel.app/fr/"
                 />
   </url><url>
-    <loc>./fr/posts/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./posts/"
+                href="https://vercel-ochre-six.vercel.app/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="./fa/posts/"
+                href="https://vercel-ochre-six.vercel.app/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/posts/"
+                href="https://vercel-ochre-six.vercel.app/fr/posts/"
                 />
   </url><url>
-    <loc>./fr/frcategories/syntax/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frcategories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frtags/themes/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frtags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frcategories/themes/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frcategories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/frseries/themes-guide/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/frseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./fr/archives/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./archives/"
+                href="https://vercel-ochre-six.vercel.app/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/archives/"
+                href="https://vercel-ochre-six.vercel.app/fr/archives/"
                 />
   </url><url>
-    <loc>./fr/search/</loc>
+    <loc>https://vercel-ochre-six.vercel.app/fr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="./search/"
+                href="https://vercel-ochre-six.vercel.app/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="./fr/search/"
+                href="https://vercel-ochre-six.vercel.app/fr/search/"
                 />
   </url>
 </urlset>

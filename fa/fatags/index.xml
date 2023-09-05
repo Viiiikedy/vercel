@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FAtags on PaperMod RTL</title>
-    <link>./fa/fatags/</link>
+    <link>https://vercel-ochre-six.vercel.app/fa/fatags/</link>
     <description>Recent content in FAtags on PaperMod RTL</description>
     <image>
       <title>PaperMod RTL</title>
-      <url>papermod-cover.png</url>
-      <link>papermod-cover.png</link>
+      <url>https://vercel-ochre-six.vercel.app/papermod-cover.png</url>
+      <link>https://vercel-ochre-six.vercel.app/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="./fa/fatags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vercel-ochre-six.vercel.app/fa/fatags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>./fa/fatags/css/</link>
+      <link>https://vercel-ochre-six.vercel.app/fa/fatags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>./fa/fatags/css/</guid>
+      <guid>https://vercel-ochre-six.vercel.app/fa/fatags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>./fa/fatags/html/</link>
+      <link>https://vercel-ochre-six.vercel.app/fa/fatags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>./fa/fatags/html/</guid>
+      <guid>https://vercel-ochre-six.vercel.app/fa/fatags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>./fa/fatags/markdown/</link>
+      <link>https://vercel-ochre-six.vercel.app/fa/fatags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>./fa/fatags/markdown/</guid>
+      <guid>https://vercel-ochre-six.vercel.app/fa/fatags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>./fa/fatags/themes/</link>
+      <link>https://vercel-ochre-six.vercel.app/fa/fatags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>./fa/fatags/themes/</guid>
+      <guid>https://vercel-ochre-six.vercel.app/fa/fatags/themes/</guid>
       <description></description>
     </item>
     
